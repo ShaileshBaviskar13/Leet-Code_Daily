@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
