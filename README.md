@@ -7,6 +7,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -45,12 +47,22 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
