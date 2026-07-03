@@ -8,6 +8,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -61,8 +64,18 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
