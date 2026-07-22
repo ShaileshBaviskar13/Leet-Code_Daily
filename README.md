@@ -107,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0009-palindrome-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
