@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0058-length-of-last-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,10 +125,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
