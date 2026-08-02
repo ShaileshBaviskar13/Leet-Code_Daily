@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3620-network-recovery-pathways) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
