@@ -42,6 +42,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0168-excel-sheet-column-title) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0009-palindrome-number) |
+| [0168-excel-sheet-column-title](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0168-excel-sheet-column-title) |
 | [0486-predict-the-winner](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
