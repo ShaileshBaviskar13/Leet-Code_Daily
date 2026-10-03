@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
@@ -147,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
