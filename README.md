@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0877-stone-game) |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -170,4 +173,16 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0486-predict-the-winner) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShaileshBaviskar13/Leet-Code_Daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
